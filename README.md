@@ -21,8 +21,9 @@ Go to File > Preferences. In the "Additional Boards Manager URLs" field, type (o
 
 # 3.Back to Hardware:
 1. Enter your wifi credentials(Id Name and password) in the code
-2. Enter your blynk authentication token which you obtained while configuring the software. You can also find it in your email.(you can also go to project settings in your mobile app and email or copy the authentication token)
+2. Enter your blynk authentication token which you obtained while configuring the software. You can also find it in your email.(you can also go to project settings in your mobile app and then you can email or copy the authentication token)
 3. Upload the code.
 
 # 4.Controlling your device
-1. 
+1. Configure your buttons in the app to control the digital pins( the pins for which you have designed the circuit and connected the relay channels)
+2. Plug in the device and press the buttons to control.
