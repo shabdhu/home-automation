@@ -18,6 +18,19 @@ Go to File > Preferences. In the "Additional Boards Manager URLs" field, type (o
 11. Copy the code or open the program if you have downloaded it.( you can download/view the code from this github repo).
 
 # 2.Configuring your software:
+1.	Open play store/ App Store in that search BLYNK and download it or else use this link https://play.google.com/store/apps/details?id=cc.blynk for Android and for IOS https://itunes.apple.com/us/app/blynk-iot-for-arduino-esp32/id808760481?mt=8
+2.	After installing open BLYNK app and go to create new user and enter your email and password and click next 
+3.	This will let you login then go to new project this opens new menu
+4.	There you can enter your project name 
+5.	Next important thing is you have to select nodemcu in boards
+6.	Then select connection type for your device as Wi-Fi
+7.	Then select create project this will create your project for your selected device and communication type
+8.	This will send you authentication token to your mail this will help you to communicate with your hardware device(nodemcu).you will be using this authentication token later. So save that email.
+9.	Then swipe right to left or click '+' button there you have many features of BLYNK there you have to select button widget and add as many buttons required(if you want to control 4 devices use 4 buttons).
+10.	Then select button in the project page this will open button’s setting page there you have to select PIN number as per your connection in your nodemcu.Use pin type DIGITAL and pin number such as D5,D6,D7,D8 etc.
+11.	Then select mode as switch.
+12.	Click ok at top right this will get you to project page. 
+13.	Then select play button at top right in project page to bring the project live.
 
 # 3.Back to Hardware:
 1. Enter your wifi credentials(Id Name and password) in the code
